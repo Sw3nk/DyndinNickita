@@ -1,0 +1,12 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Barista" as P {
+ Cezva
+Make coffee (Coffee beans, Water):: Coffee
+}
+hide circle
+@enduml
