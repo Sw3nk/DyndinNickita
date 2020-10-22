@@ -17,3 +17,23 @@
 ## Usecase diagram
 
 ![none](https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Laba1/laba1_3.png)
+
+# Лабораторная работа 2
+
+## IDEF0 diagram
+
+Контекстная: 
+
+![none](https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Laba2/lab2_1st_lvl.png)
+
+Средний уровень:
+
+![none](https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Laba2/lab2_2nd_lvl.png)
+
+Блок "Управлять":
+
+![none](https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Laba2/lab2_3rd_lvl.png)
+
+## Usecase diagram:
+
+![none](https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Laba2/UML_2lab.png)
