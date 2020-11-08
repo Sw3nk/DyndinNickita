@@ -1,12 +1,13 @@
 @startuml
-actor "Владелец" as owner
+actor "Менеджер" as user
 boundary "Приложение" as app
 entity "Данные" as data
-actor "Бариста-стажер" as trainee
-owner -> app : Заявка
+actor "Помощник баристы" as user1
+
+user -> app : Отправка
 app -> data : Заказ 
 data -> app : Ответ
-app -> trainee : Инструкция
-trainee -> app : Подтверждение
-app -> owner : Заказ принят
+app -> user1 : Рецепт
+user1 -> app : Подтверждение
+app -> user : Подтверждение заказа
 @enduml
