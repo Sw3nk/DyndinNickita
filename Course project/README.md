@@ -11,4 +11,29 @@
 **Предмет исследований:** программные средства разработки систем распознавания графических образов.
 
 **Процессы верхнего уровня:** [✋](https://github.com/stankin/design-part-2/wiki/sem1)
+* **А1** Управление разработкой. 
+* **А2** Разработка. 
+* **А3** Обучение нейросети. 
+* **А4** Тестирование.  
 
+**Точка зрения:** Начальник отдела разработки. 
+
+**Цель моделирования:** выделение процессов разработки. 
+
+### 2. Функциональное моделирование процессов (IDEF0) [✋](https://github.com/stankin/design-part-2/wiki/LR-1)
+
+* A-0 (контекстная диаграмма)
+
+![A-0](https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Course%20project/01_A0.png)
+
+* A0 (диаграмма верхнего уровня)
+
+![A0](https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Course%20project/02_A0.png)
+
+* A1 (декомпозиция процесса/процессов внутренней среды)
+
+![A1](https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Course%20project/03_A1.png)
+
+* A3 (декомпозиция процесса/процессов внутренней среды)
+
+![A3](https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Course%20project/04_A3.png)
