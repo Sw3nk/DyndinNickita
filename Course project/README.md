@@ -45,3 +45,23 @@
 * A4 (декомпозиция процесса/процессов внутренней среды)
 
 ![A4](https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Course%20project/08_A4.png)
+
+### 3. Функциональное моделирование программных и информационных средств (DFD) [✋](https://github.com/stankin/design-part-2/wiki/LR-2)
+
+**Конфигурация технических средств:** <рабочие станции, серверы, другое оборудование>
+
+**Конфигурация программных средств:** <одноуровневые, многоуровневые, встроенные, распределенные>
+
+**Допустимые виды хранилищ и их размещение:** <файлы, директории, репозитории, базы данных>
+
+* A13 Автоматизация процесса А13
+
+![A13](https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Course%20project/04_A13.png)
+
+* A32 Автоматизация процесса А32
+
+![A32](https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Course%20project/07_A32.png)
+
+* A42 Автоматизация процесса А42
+
+![A42](https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Course%20project/09_A42.png)
