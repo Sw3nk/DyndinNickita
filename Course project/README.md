@@ -11,14 +11,14 @@
 **Предмет исследований:** программные средства разработки систем распознавания графических образов.
 
 **Процессы верхнего уровня:** [✋](https://github.com/stankin/design-part-2/wiki/sem1)
-* **А1** Управление разработкой. 
-* **А2** Разработка. 
-* **А3** Обучение нейросети. 
-* **А4** Тестирование.  
+* **А1** Обнаружение лица. 
+* **А2** Анализ и нормализация лица. 
+* **А3** Распознавание лица. 
+* **А4** Отмечание присутствия.  
 
-**Точка зрения:** Начальник отдела разработки. 
+**Точка зрения:** Директор. 
 
-**Цель моделирования:** выделение процессов разработки. 
+**Цель моделирования:** Определение автоматизируемых функций. 
 
 ### 2. Функциональное моделирование процессов (IDEF0) [✋](https://github.com/stankin/design-part-2/wiki/LR-1)
 
@@ -34,6 +34,14 @@
 
 ![A1](https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Course%20project/03_A1.png)
 
+* A2 (декомпозиция процесса/процессов внутренней среды)
+
+![A2](https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Course%20project/05_A2.png)
+
 * A3 (декомпозиция процесса/процессов внутренней среды)
 
-![A3](https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Course%20project/04_A3.png)
+![A3](https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Course%20project/06_A3.png)
+
+* A4 (декомпозиция процесса/процессов внутренней среды)
+
+![A4](https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Course%20project/08_A4.png)
