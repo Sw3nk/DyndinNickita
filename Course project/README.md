@@ -69,6 +69,7 @@
 ### 4. Описание выбранного процесса [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате прецедента (Use Case) [✋](https://github.com/stankin/design-part-2/wiki/LR-4)
 
 Диаграмма UML Use Case
+
 ![A32](https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Course%20project/UML_use_case.png)
 
 **4.1 Идентификатор прецедента:** A32
