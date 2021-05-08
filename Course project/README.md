@@ -142,15 +142,15 @@
 
 * **Описываемые процессы и потоки данных:** Распознавание лица, отметка посещения
 
-* **[Диграмма UML Sequence:](https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Course%20project/UML_sequence.txt)**
+* [**Диграмма UML Sequence:**](https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Course%20project/UML_sequence.txt)
 ![p6](https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Course%20project/UML_sequence.png)
 
 ### 7. Описание состава [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате UML (Component) [✋](https://github.com/stankin/design-part-2/wiki/LR-7)
 
-* **Описываемый объект:** <комплект поставки>
+* **Описываемый объект:** <Структура программных средств системы>
 
-* **Диаграмма UML Component:**
-![p7](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/<user/user.github.io/master/<path><file>)
+* [**Диаграмма UML Component:**](https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Course%20project/UML_component.txt)
+![p7](https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Course%20project/UML_component.png)
 
 ### 8. Демонстрация реализации (личная страница)
 
