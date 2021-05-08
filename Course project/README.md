@@ -142,7 +142,7 @@
 
 * **Описываемые процессы и потоки данных:** Распознавание лица, отметка посещения
 
-* **Диаграмма UML Sequence:**
+* **[Диграмма UML Sequence:](https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Course%20project/UML_sequence.txt)
 ![p6](https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Course%20project/UML_sequence.png)
 
 ### 7. Описание состава [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате UML (Component) [✋](https://github.com/stankin/design-part-2/wiki/LR-7)
