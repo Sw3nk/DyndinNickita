@@ -1,0 +1,25 @@
+@startuml
+skinparam monochrome true
+
+actor Сотрудник as sotr
+participant "Система" as system
+participant "Камера" as cam
+participant "Сверточная нейронная сеть" as neural
+database "База данных лиц сотрудников" as db
+
+sotr-> system : Запуск системы
+activate system
+system -> cam : Включение камеры
+activate cam
+cam -> system : Извлечение признаков
+system -> neural : Передача признаков
+deactivate cam
+activate neural
+neural-> db : Сопоставление признаков
+activate db
+db -> system : Id сотрудника
+deactivate db 
+deactivate neural
+system -> sotr: Отметка посещения
+deactivate system
+@enduml
