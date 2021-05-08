@@ -150,6 +150,7 @@
 * **Описываемый объект:** <Структура программных средств системы>
 
 * [**Диаграмма UML Component:**](https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Course%20project/UML_component.txt)
+
 ![p7](https://github.com/Sw3nk/DyndinNickita.github.io/blob/master/Course%20project/UML_component.png)
 
 ### 8. Демонстрация реализации (личная страница)
