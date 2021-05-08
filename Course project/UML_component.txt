@@ -1,0 +1,14 @@
+@startuml
+skinparam monochrome true
+
+component [Система] as System
+component [Нейросеть] as Neural
+component [База данных] as DB
+
+() "LAN" as L
+() "Файловая система ПК" as FileSys
+System - FileSys
+FileSys - DB
+DB - L
+L - Neural
+@enduml
