@@ -1,0 +1,35 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Stream as "Поток"
+class In as "Входной"
+class Out as "Выходной"
+class Management as "Управления"
+class Info as "Информационный"
+class Info1 as "Информационный"
+class Info2 as "Информационный"
+class Library as "Бибилотеки"
+class Recognition as "Распознавание лица"
+class Standart as "Стандарты"
+
+
+Stream<|-- In
+Stream<|-- Out
+Stream<|-- Management
+
+In<|-- Info
+Out<|-- Info1
+Management<|-- Info2
+
+Info<|-- Library
+Info1<|-- Recognition
+Info2<|-- Standart
+
+
+hide members
+hide circle
+hide methods
+@enduml
